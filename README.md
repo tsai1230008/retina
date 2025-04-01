@@ -1,3 +1,10 @@
 # 實際圖式
+- 白血球邊緣切割<br>
+![邊緣切割](https://github.com/user-attachments/assets/c3b1e940-8b6b-4801-b297-4d8adb885ac2)<br><br>
+- 使用U-Net白血球邊緣切割<br>
+![U Net_實際案例](https://github.com/user-attachments/assets/ad369d4f-62e6-45d0-b3af-f3354d3e0ad5)<br><br>
+- 使用CNN白血球邊緣切割<br>
+![CNN_實際案例](https://github.com/user-attachments/assets/b194b464-437d-4065-b955-d413ca9b1c80)<br><br>
 
-![實際案例](https://github.com/user-attachments/assets/d55acf21-5d27-4990-b685-30017c68821f)
+
+![b662068b-1706-4ed5-b9f8-644918771870](https://github.com/user-attachments/assets/bb3a7d44-a064-4385-a712-f9d24ceb00de)
